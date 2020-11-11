@@ -1,0 +1,4 @@
+﻿  test_1.c
+e:\classcode\sdatastructure\顺序表\class_1\test_1.c(97): warning C4018: “>”: 有符号/无符号不匹配
+e:\classcode\sdatastructure\顺序表\class_1\test_1.c(169): warning C4013: “system”未定义；假设外部返回 int
+  class_1.vcxproj -> E:\classcode\sdatastructure\顺序表\Debug\class_1.exe

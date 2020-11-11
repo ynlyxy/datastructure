@@ -1,0 +1,5 @@
+﻿  heap.c
+e:\classcode\sdatastructure\heap\heap\heap.c(32): warning C4047: “=”:“HPDataType *”与“HPDataType”的间接级别不同
+e:\classcode\sdatastructure\heap\heap\heap.c(34): warning C4047: “=”:“HPDataType”与“HPDataType *”的间接级别不同
+e:\classcode\sdatastructure\heap\heap\heap.c(235): warning C4013: “system”未定义；假设外部返回 int
+  Heap.vcxproj -> E:\classcode\sdatastructure\Heap\Debug\Heap.exe

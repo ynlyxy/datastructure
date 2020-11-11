@@ -1,0 +1,20 @@
+﻿  processRunning.cpp
+e:\classcode\sdatastructure\fcfs\fcfs\processrunning.cpp(61): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+e:\classcode\sdatastructure\fcfs\fcfs\processrunning.cpp(63): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\classcode\sdatastructure\fcfs\fcfs\processrunning.cpp(64): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+e:\classcode\sdatastructure\fcfs\fcfs\processrunning.cpp(66): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\classcode\sdatastructure\fcfs\fcfs\processrunning.cpp(82): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\classcode\sdatastructure\fcfs\fcfs\processrunning.cpp(86): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+e:\classcode\sdatastructure\fcfs\fcfs\processrunning.cpp(104): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\classcode\sdatastructure\fcfs\fcfs\processrunning.cpp(106): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+e:\classcode\sdatastructure\fcfs\fcfs\processrunning.cpp(109): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+e:\classcode\sdatastructure\fcfs\fcfs\processrunning.cpp(131): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\classcode\sdatastructure\fcfs\fcfs\processrunning.cpp(133): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+e:\classcode\sdatastructure\fcfs\fcfs\processrunning.cpp(136): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+e:\classcode\sdatastructure\fcfs\fcfs\processrunning.cpp(165): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\classcode\sdatastructure\fcfs\fcfs\processrunning.cpp(167): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+e:\classcode\sdatastructure\fcfs\fcfs\processrunning.cpp(170): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+e:\classcode\sdatastructure\fcfs\fcfs\processrunning.cpp(234): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\classcode\sdatastructure\fcfs\fcfs\processrunning.cpp(249): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+e:\classcode\sdatastructure\fcfs\fcfs\processrunning.cpp(289): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  Fcfs.vcxproj -> E:\classcode\sdatastructure\Fcfs\Debug\Fcfs.exe

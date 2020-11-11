@@ -1,0 +1,18 @@
+﻿  list.c
+e:\classcode\sdatastructure\带头双向循环链表\带头双向循环链表\list.h(21): warning C4030: 第一个形参表比第二个长
+e:\classcode\sdatastructure\带头双向循环链表\带头双向循环链表\list.c(26): warning C4098: “ListDestory”:“void”函数返回值
+e:\classcode\sdatastructure\带头双向循环链表\带头双向循环链表\list.c(40): warning C4029: 声明的形参表不同于定义
+e:\classcode\sdatastructure\带头双向循环链表\带头双向循环链表\list.c(48): warning C4133: “函数”: 从“List *”到“ListNode *”的类型不兼容
+e:\classcode\sdatastructure\带头双向循环链表\带头双向循环链表\list.c(48): warning C4047: “函数”:“LTDataType”与“ListNode *”的间接级别不同
+e:\classcode\sdatastructure\带头双向循环链表\带头双向循环链表\list.c(48): warning C4024: “ListInsert”: 形参和实参 2 的类型不同
+e:\classcode\sdatastructure\带头双向循环链表\带头双向循环链表\list.c(48): warning C4020: “ListInsert”: 实参太多
+e:\classcode\sdatastructure\带头双向循环链表\带头双向循环链表\list.c(56): warning C4098: “ListPopBack”:“void”函数返回值
+e:\classcode\sdatastructure\带头双向循环链表\带头双向循环链表\list.c(82): warning C4098: “ListPopFront”:“void”函数返回值
+e:\classcode\sdatastructure\带头双向循环链表\带头双向循环链表\list.c(110): warning C4028: 形参 1 与声明不同
+e:\classcode\sdatastructure\带头双向循环链表\带头双向循环链表\list.c(110): warning C4028: 形参 2 与声明不同
+e:\classcode\sdatastructure\带头双向循环链表\带头双向循环链表\list.c(110): warning C4029: 声明的形参表不同于定义
+e:\classcode\sdatastructure\带头双向循环链表\带头双向循环链表\list.c(121): warning C4028: 形参 1 与声明不同
+e:\classcode\sdatastructure\带头双向循环链表\带头双向循环链表\list.c(121): warning C4029: 声明的形参表不同于定义
+e:\classcode\sdatastructure\带头双向循环链表\带头双向循环链表\list.c(135): warning C4098: “ListPrint”:“void”函数返回值
+e:\classcode\sdatastructure\带头双向循环链表\带头双向循环链表\list.c(107): warning C4715: “ListFind”: 不是所有的控件路径都返回值
+  带头双向循环链表.vcxproj -> E:\classcode\sdatastructure\带头双向循环链表\Debug\带头双向循环链表.exe

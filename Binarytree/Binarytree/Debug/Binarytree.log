@@ -1,0 +1,13 @@
+﻿  Binary.c
+e:\classcode\sdatastructure\binarytree\binarytree\binary.c(5): warning C4028: 形参 2 与声明不同
+e:\classcode\sdatastructure\binarytree\binarytree\binary.c(5): warning C4029: 声明的形参表不同于定义
+e:\classcode\sdatastructure\binarytree\binarytree\binary.c(8): warning C4013: “malloc”未定义；假设外部返回 int
+e:\classcode\sdatastructure\binarytree\binarytree\binary.c(33): warning C4013: “free”未定义；假设外部返回 int
+e:\classcode\sdatastructure\binarytree\binarytree\binary.c(213): error C2065: “Stack”: 未声明的标识符
+e:\classcode\sdatastructure\binarytree\binarytree\binary.c(213): error C2146: 语法错误: 缺少“;”(在标识符“st”的前面)
+e:\classcode\sdatastructure\binarytree\binarytree\binary.c(213): error C2065: “st”: 未声明的标识符
+e:\classcode\sdatastructure\binarytree\binarytree\binary.c(214): warning C4013: “StackInit”未定义；假设外部返回 int
+e:\classcode\sdatastructure\binarytree\binarytree\binary.c(214): error C2065: “st”: 未声明的标识符
+e:\classcode\sdatastructure\binarytree\binarytree\binary.c(218): warning C4013: “Stackpush”未定义；假设外部返回 int
+e:\classcode\sdatastructure\binarytree\binarytree\binary.c(218): error C2065: “st”: 未声明的标识符
+e:\classcode\sdatastructure\binarytree\binarytree\binary.c(252): warning C4013: “system”未定义；假设外部返回 int

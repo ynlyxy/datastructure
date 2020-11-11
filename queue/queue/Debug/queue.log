@@ -1,0 +1,7 @@
+﻿  queue.c
+e:\classcode\sdatastructure\queue\queue\queue.c(13): warning C4098: “QueueDestory”:“void”函数返回值
+e:\classcode\sdatastructure\queue\queue\queue.c(19): warning C4013: “free”未定义；假设外部返回 int
+e:\classcode\sdatastructure\queue\queue\queue.c(25): warning C4013: “malloc”未定义；假设外部返回 int
+e:\classcode\sdatastructure\queue\queue\queue.c(50): warning C4098: “QueuePop”:“void”函数返回值
+e:\classcode\sdatastructure\queue\queue\queue.c(94): warning C4013: “system”未定义；假设外部返回 int
+  queue.vcxproj -> E:\classcode\sdatastructure\queue\Debug\queue.exe
